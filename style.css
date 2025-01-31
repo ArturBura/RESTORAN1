@@ -157,6 +157,7 @@ transform: scale(1.05);
     display: flex;
     justify-content: space-between;
     padding-top: 147px;
+    margin-left: 25px;
 }
 
 .welcome-img{
