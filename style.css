@@ -945,6 +945,8 @@ justify-content: center;
         flex-direction: column-reverse;
         align-items: flex-start;
         align-items: center;
+        padding-left: 25px;
+        margin-left: 0px;
     }
 
     .welcome-block{
